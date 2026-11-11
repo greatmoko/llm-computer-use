@@ -1,6 +1,6 @@
 # LLM-Computer-Use
 
-A portable Windows desktop automation skill for agents that can run local commands and read images. The calling agent decides what to do; the skill does not start a separate model or Pi session.
+A portable Windows desktop automation skill for agents that can run local commands and read images. The calling agent decides what to do; the skill does not start a separate model or agent session.
 
 ## Requirements
 
